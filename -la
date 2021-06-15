@@ -1,0 +1,42 @@
+[33mcommit 57cebb6cada51e221c3a6d581c56bac99744ec91[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 8452f3c 684effc
+Author: Korovin_Dmitro <korovindmitrijsergeevich@gmail.com>
+Date:   Tue Jun 15 14:03:40 2021 -0700
+
+    Merge branch 'jenkins'
+
+[33mcommit 8452f3c3aa068b808d3848c21caf9b0c4a055282[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: KorovinDS <85960590+KorovinDS@users.noreply.github.com>
+Date:   Tue Jun 15 14:01:32 2021 -0700
+
+    Delete test.json
+
+[33mcommit 684effcfd530c937887dd0eda228980aff6cff8b[m[33m ([m[1;31morigin/jenkins[m[33m, [m[1;32mjenkins[m[33m)[m
+Author: Korovin_Dmitro <korovindmitrijsergeevich@gmail.com>
+Date:   Tue Jun 15 13:51:40 2021 -0700
+
+    add test json in branch jenkins
+
+[33mcommit 54ebca49c4ec64780f40c8a43d073b7bdff02414[m
+Author: Korovin_Dmitro <korovindmitrijsergeevich@gmail.com>
+Date:   Tue Jun 15 13:46:49 2021 -0700
+
+    Branch jenkins. Add new file
+
+[33mcommit b04ccd9ff379ad6b40f1b500e0161eadeddbbff8[m
+Author: KorovinDS <85960590+KorovinDS@users.noreply.github.com>
+Date:   Tue Jun 15 12:44:51 2021 -0700
+
+    add city
+
+[33mcommit 338a7ffe7f96d260408446f5fcf3f6890b8d86d7[m
+Author: Korovin_Dmitro <korovindmitrijsergeevich@gmail.com>
+Date:   Tue Jun 15 12:34:44 2021 -0700
+
+    add first file
+
+[33mcommit c4b2557f1f69107e9efcd11a99d369a7c07fc434[m
+Author: KorovinDS <85960590+KorovinDS@users.noreply.github.com>
+Date:   Tue Jun 15 11:44:41 2021 -0700
+
+    Initial commit
